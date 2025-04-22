@@ -54,3 +54,10 @@ pandas documentation
 
 Seaborn visualization library
 
+
+![Screenshot 2025-04-22 105330](https://github.com/user-attachments/assets/f25196c0-7224-4743-b014-242cd140998a)
+![Screenshot 2025-04-22 105337](https://github.com/user-attachments/assets/1a429f71-b3a0-4312-bc77-80d6ad7c73d9)
+
+
+
+
